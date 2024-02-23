@@ -7,4 +7,3 @@ Baidu Netdisk link: https://pan.baidu.com/s/1qROfavqy_auzfq0mqjiJ3A Access code:
 This dataset includes 60 videos, and the corresponding annotation files. The annotation files follow the Pascal VOC XML format. In addition, we provide a python code for extracting images from a video.
 
 If you have any problem when using this dataset, please feel free to contact: guohanqing@westlake.edu.cn.
-![Uploading 微信图片_20240223155853.png…]()
