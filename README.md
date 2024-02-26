@@ -1,5 +1,5 @@
 # Global-Local-MAV-Detection
-This is the repository for the paper "Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion". This paper is conditionally accepted by IEEE Transactions on Intelligent Transportation Systems.
+This is the repository for the paper "Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion". This paper is conditionally accepted by IEEE Transactions on Intelligent Transportation Systems. In this paper, we propose a global-local MAV detector that can fuse both motion and appearance features for MAV detection under challenging conditions. Link: https://arxiv.org/abs/2312.11008
 
 The link to the dataset present in the paper is: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EgX-57n5etFOtaS_QjeGfQEBOTo6y9PkVOGTyt3tsOB5LA?e=jILuMf.
 
