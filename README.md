@@ -27,7 +27,7 @@ In this paper, we propose a global-local MAV detector that can fuse both motion 
 
 ### Dataset
 - [BaiduYun](https://pan.baidu.com/share/init?surl=qROfavqy_auzfq0mqjiJ3A?pw=sr7f)
-- [GoogleDrive] (https://drive.google.com/file/d/1_I5jR-a-Jlan96s7XD3QeLLddb51rDT_/view?usp=drive_link)
+- [GoogleDrive](https://drive.google.com/file/d/1_I5jR-a-Jlan96s7XD3QeLLddb51rDT_/view?usp=drive_link)
 - [Microsoft SharePoint](https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EgX-57n5etFOtaS_QjeGfQEBOTo6y9PkVOGTyt3tsOB5LA?e=jILuMf)
   
 This dataset includes 60 videos andd 106665 frames, the average object size is only 0.02% of the image size (1920 * 1080). The annotation files follow the Pascal VOC XML format. In addition, we provide a python code for extracting images from a video.
