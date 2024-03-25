@@ -32,7 +32,12 @@ In this paper, we propose a global-local MAV detector that can fuse both motion 
   
 This dataset includes 60 videos and 106665 frames, the average object size is only 0.02% of the image size (1920 × 1080). The annotation files follow the Pascal VOC XML format. In addition, we provide a python code for extracting images from a video.
 
-In this paper, 45 videos are used for model trainning, and 15 videos are used for testing. The video ID for testing is:05, 08, 09, 10, 19, 30, 41, 43, 46, 47, 58, 63,  65, 70, 86.
+In this paper, 45 videos are used for model trainning, and 15 videos are used for testing. The video ID for testing is:05, 08, 09, 10, 19, 30, 41, 43, 46, 47, 58, 63,  65, 70, 86. 
+| Conditions |      |      |      |      |      |
+| ---------- | ---- | ---- | ---- | ---- | ---- |
+| Ordinary   | 09   | 10   | 30   | 47   | 70   |
+| Complex    | 05   | 08   | 58   | 65   |  86  |
+| Small      | 19   | 41   | 43   | 46   |   63 |
 
 If you have any problem when using this dataset, please feel free to contact: guohanqing@westlake.edu.cn.
 
