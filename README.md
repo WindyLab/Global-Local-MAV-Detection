@@ -26,7 +26,7 @@ In this paper, we propose a global-local MAV detector that can fuse both motion 
 ![architecture](https://github.com/WestlakeIntelligentRobotics/Global-Local-MAV-Detection/assets/125523389/656b737a-d846-4206-9d9b-0a4faec524af)
 
 ### Dataset
-- [BaiduYun](https://pan.baidu.com/s/1SmbyjC0l6uye_ghWhEErsQ?pw=z1xb) (code:z1xb)
+- [BaiduYun](https://pan.baidu.com/s/1SmbyjC0l6uye_ghWhEErsQ) (code:z1xb)
 - [GoogleDrive](https://drive.google.com/file/d/1_I5jR-a-Jlan96s7XD3QeLLddb51rDT_/view?usp=drive_link)
 <!--[Microsoft SharePoint](https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EgX-57n5etFOtaS_QjeGfQEBOTo6y9PkVOGTyt3tsOB5LA?e=jILuMf)-->
   
