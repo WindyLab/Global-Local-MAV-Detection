@@ -19,7 +19,7 @@
   
 </div>
 
-This is the repository for the paper "Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion". This paper is conditionally accepted by IEEE Transactions on Intelligent Transportation Systems. 
+This is the repository for the paper "Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion". This paper is accepted by IEEE Transactions on Intelligent Transportation Systems. 
 
 In this paper, we propose a global-local MAV detector that can fuse both motion and appearance features for MAV detection under challenging conditions.
 
@@ -44,12 +44,12 @@ If you have any problem when using this dataset, please feel free to contact: gu
 ## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
-@misc{guo2023globallocal,
+@article{guo2023globallocal,
       title={Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion}, 
       author={Hanqing Guo and Ye Zheng and Yin Zhang and Zhi Gao and Shiyu Zhao},
-      year={2023},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2024},
       eprint={2312.11008},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      publisher={IEEE}
 }
 ```
