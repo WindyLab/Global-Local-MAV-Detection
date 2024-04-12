@@ -49,7 +49,6 @@ If you find our work useful, please consider citing:
       author={Hanqing Guo and Ye Zheng and Yin Zhang and Zhi Gao and Shiyu Zhao},
       journal={IEEE Transactions on Intelligent Transportation Systems},
       year={2024},
-      eprint={2312.11008},
       publisher={IEEE}
 }
 ```
