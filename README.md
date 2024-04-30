@@ -51,7 +51,7 @@ If you want to train on your own datasets, you should re-train global YOLOv5, lo
 - [GoogleDrive](https://drive.google.com/file/d/1_I5jR-a-Jlan96s7XD3QeLLddb51rDT_/view?usp=drive_link)
 <!--[Microsoft SharePoint](https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EgX-57n5etFOtaS_QjeGfQEBOTo6y9PkVOGTyt3tsOB5LA?e=jILuMf)-->
   
-This dataset includes 60 videos and 106665 frames, the average object size is only 0.02% of the image size (1920 × 1080). The annotation files follow the Pascal VOC XML format. In addition, we provide a python code for extracting images from a video.
+This dataset includes 60 videos and 107497 frames, the average object size is only 0.02% of the image size (1920 × 1080). The annotation files follow the Pascal VOC XML format. In addition, we provide a python code for extracting images from a video.
 
 In this paper, 45 videos are used for model trainning and validation (randomly split with 5:1), and 15 videos are used for testing. The video ID for testing is:05, 08, 09, 10, 19, 30, 41, 43, 46, 47, 58, 63,  65, 70, 86. 
 | Conditions |      |      |      |      |      |
