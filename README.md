@@ -19,11 +19,32 @@
   
 </div>
 
-This is the repository for the paper "Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion". This paper is accepted by IEEE Transactions on Intelligent Transportation Systems. 
+
+This is an official pytorch implementation of the 2024 IEEE Transactions on Intelligent Transportation Systems paper: 
+
+Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion
+
+This repository contains the basic codes for GLAD, the full codes with Kalman Filter, Adaptive Search Region, and other codes will be published in the future. 
 
 In this paper, we propose a global-local MAV detector that can fuse both motion and appearance features for MAV detection under challenging conditions.
 
 ![architecture](https://github.com/WestlakeIntelligentRobotics/Global-Local-MAV-Detection/assets/125523389/656b737a-d846-4206-9d9b-0a4faec524af)
+
+# Quick Start for GLAD
+demo file for GLAD
+```bash
+python GLAD.py
+```
+# GLAD_MC
+demo file for GLAD with motion compensation
+
+## Installation
+
+Please find installation instructions in [`INSTALL.md`](INSTALL.md).
+
+## Train
+
+If you want to train on your own datasets, you should re-train global YOLOv5, local YOLOv5, and the appearance-based classifier.
 
 ### Dataset
 - [BaiduYun](https://pan.baidu.com/s/1SmbyjC0l6uye_ghWhEErsQ) (code:z1xb)
